@@ -9,4 +9,8 @@
 7. `git commit -m "<COMMIT MESSAGE>"`
 8. `git log`
 
-Install git blame extention
+Extension:
+
+- Install git blame
+- Install git lens
+- Install git history
