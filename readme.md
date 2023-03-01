@@ -14,3 +14,7 @@ Extension:
 - Install git blame
 - Install git lens
 - Install git history
+
+
+- git remote add origin https://github.com/galamo/idfproject.git
+- git push -u origin master
