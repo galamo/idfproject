@@ -11,6 +11,8 @@
 9. `git remote add origin https://github.com/<YOUR USER NAME>/<YOUR PROJECT>.git`
 10. `git push -u origin master`
 11. `git push origin head`
+12. `git checkout master`
+13. `git checkout -b <YOUR NEW BRANCH>`
 
 Extension:
 
