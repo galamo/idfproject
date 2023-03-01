@@ -6,3 +6,26 @@ function newFunc() {
 function logInfo() {
   console.log("blabla");
 }
+function logInfo() {
+  console.log("blabla");
+}
+
+function logInfo() {
+  console.log("blabla");
+}
+
+function logInfo() {
+  console.log("blabla");
+}
+
+function logInfo() {
+  console.log("blabla");
+}
+
+function logInfo() {
+  console.log("blabla");
+}
+
+function logInfo() {
+  console.log("blabla");
+}
