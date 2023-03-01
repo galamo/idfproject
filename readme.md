@@ -9,8 +9,8 @@
 7. `git commit -m "<COMMIT MESSAGE>"`
 8. `git log`
 9. `git remote add origin https://github.com/<YOUR USER NAME>/<YOUR PROJECT>.git`
-10. `git push -u origin master`
-11. `git push origin head`
+10. `git push -u origin master` -- first time 
+11. `git push origin head` -- on every time we want to push changes into origin ( service )
 12. `git checkout master`
 13. `git checkout -b <YOUR NEW BRANCH>`
 
