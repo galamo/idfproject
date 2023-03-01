@@ -28,3 +28,9 @@ Extension:
 4. commit the changes (7) ---->> in case git name/email not configured make (5+6)
 5. push the changes to github (11)
 6. make sure your code in github
+
+
+
+# HW 
+- upload your project 1 to private repository 
+- read: https://www.atlassian.com/git/tutorials/using-branches
